@@ -1,0 +1,11 @@
+Bug - Pledge to complete a bug and report you fixed it.
+
+Butterfly - Fix a bug that a friend assigned to you -- or -- Assign a bug to a friend and they fix it.
+
+Gold star - Complete a learning-type mission (e.g. chatting with a bot on IRC)
+
+b # thumbs up - Complete a social-type mission (e.g. linking to a favorite mailing list post)
+
+Project leader - (Self?-)report as a project leader of an OSS project in your profile
+
+Developer - (Self?-)report as an "official" contributor to a project in your profile which has such distinctions (e.g. Developers in Debian)
